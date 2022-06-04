@@ -1,0 +1,22 @@
+{
+  "name": "braintornado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcruzdev/braintornado.git"
+  },
+  "author": "Gabriela Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcruzdev/braintornado/issues"
+  },
+  "homepage": "https://github.com/gcruzdev/braintornado#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
