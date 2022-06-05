@@ -98,6 +98,10 @@ footer {
     text-decoration:underline;
 }
 
+span a:hover {
+    color: black;
+}
+
 @media (min-width: 800px) {
     .modal-content {
         width: 40%;
