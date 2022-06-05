@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400&family=Montserrat:wght@300;700;800;900&display=swap');
+
+/* rgb(240, 236, 232) */
+
 body {
     margin: 0;
     padding: 0;
@@ -6,6 +9,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
 }
+
 
 main .brand-name {
     font-size: 4rem;
@@ -47,4 +51,56 @@ footer {
 
 .nav-link {
     font-weight: 700;
+}
+
+.modal-header {
+    padding: 1rem 1rem 0rem 1rem;
+}
+
+.modal-title {
+    font-size: 1.4rem;
+    font-weight: 800;
+}
+
+.modal-body .input-group .form-control {
+    padding: 15px;
+    font-weight: bold;
+}
+
+.modal-body .input-group label {
+    font-size: 0.8rem;
+    font-weight: 700;
+}
+
+.modal-content {
+    width: 90%;
+    margin: 25px;
+}
+
+.modal-footer {
+    justify-content: center;
+}
+
+.modal-footer button {
+    padding: 10px;
+    font-weight: bold;
+    background-image: linear(rgb(0, 63, 199), rgb(1, 40, 124))
+}
+
+.modal-footer .footer-msg {
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.modal-footer .footer-msg a {
+    color:rgb(0, 63, 199);
+    text-decoration:underline;
+}
+
+@media (min-width: 800px) {
+    .modal-content {
+        width: 40%;
+        margin: 0 auto;
+    }
 }
