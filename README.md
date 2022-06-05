@@ -1,8 +1,8 @@
 # Braintornado
 ### A small Bootstrap 5 front-end project.
-![alt text](https://github.com/gcruzdev/braintornado/blob/braintornado/main.png?raw=true)
-![alt text](https://github.com/gcruzdev/braintornado/blob/braintornado/login-modal.png?raw=true)
-![alt text](https://github.com/gcruzdev/braintornado/blob/braintornado/sign-up-modal.png?raw=true)
+![Main](./README/main.png)
+![Login modal](./README/login-modal.png)
+![Sign-up Modal](./README/sign-up-modal.png)
 
 
 ### Features
